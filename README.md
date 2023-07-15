@@ -2,9 +2,9 @@
   <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="200" style="border-radius: 50%;"/>
 </div>
 
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/HeadHunter-Company%20Name-blue" alt="LinkedIn Badge"/>
+<div id="badges" align="center">
+  <a href="https://hh.ru">
+    <img src="https://img.shields.io/badge/HeadHunter-Visit-red?style=for-the-badge" alt="HeadHunter Badge">
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>

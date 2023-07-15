@@ -1,6 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="200" style="border-radius: 50%;"/>
 </div>
+<div id="badges">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</div>
 
 ### Hi there 👋
 

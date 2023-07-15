@@ -1,4 +1,4 @@
-<div id="header" align="center" style="border-radius: 50%;">
+<div id="header" align="center" style="border-radius: 50%">
   <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="200"/>
 </div>
 

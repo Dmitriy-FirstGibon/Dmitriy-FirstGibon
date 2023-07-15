@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="200" style="border-radius: 50%;"/>
 </div>
 
-<div id="badges" align="center" margin-top="40px">
+<div id="badges" align="center">
   <a href="https://vk.com/id412869861">
     <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vk&logoColor=white" alt="Twitter Badge"/>
   </a>

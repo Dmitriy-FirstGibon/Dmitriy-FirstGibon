@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://hh.ru">
-    <img src="https://img.shields.io/badge/CodeWars-important?style=for-the-badge&logo=codewars&logoColor=white" alt="HeadHunter Badge">
+    <img src="https://img.shields.io/badge/CodeWars-critical?style=for-the-badge&logo=codewars&logoColor=white" alt="HeadHunter Badge">
   </a>
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>

@@ -3,10 +3,10 @@
 </div>
 
 <div id="badges" align="center">
-  <a href="https://hh.ru">
+  <a href="https://www.codewars.com/users/Gibbon_">
     <img src="https://img.shields.io/badge/CodeWars-critical?style=for-the-badge&logo=codewars&logoColor=white" alt="HeadHunter Badge">
   </a>
-  <a href="your-twitter-URL">
+  <a href="https://web.telegram.org/k/#@DmitriyGibon">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>

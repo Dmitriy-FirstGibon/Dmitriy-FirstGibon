@@ -3,6 +3,9 @@
 </div>
 
 <div id="badges" align="center">
+  <a href="https://vk.com/id412869861">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?style=for-the-badge&logo=vkontakte&logoColor=white" alt="Twitter Badge"/>
+  </a>
   <a href="https://www.codewars.com/users/Gibbon_">
     <img src="https://img.shields.io/badge/CodeWars-critical?style=for-the-badge&logo=codewars&logoColor=white" alt="HeadHunter Badge">
   </a>
@@ -10,7 +13,6 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
 ### Hi there 👋
 
 <!--

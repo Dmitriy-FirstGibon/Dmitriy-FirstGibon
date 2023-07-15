@@ -4,7 +4,7 @@
 
 <div id="badges" align="center">
   <a href="https://hh.ru">
-    <img src="https://img.shields.io/badge/HeadHunter-Visit-red?style=for-the-badge" alt="HeadHunter Badge">
+    <img src="https://img.shields.io/badge/HeadHunter-Visit-red?style=for-the-badge&logo=hh&logoColor=white" alt="HeadHunter Badge">
   </a>
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>

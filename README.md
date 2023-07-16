@@ -14,16 +14,18 @@
   </a>
 </div>
 
+<h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+### :dart:: Codewars acount :
+
 <p dir="auto">
   <a href="https://www.codewars.com/users/Gibbon_" rel="nofollow">
   <img src="https://www.codewars.com/users/Gibbon_/badges/large"     alt="codewars" data-canonical-src="https://www.codewars.com/users/Gibbon_/badges/large" style="max-width: 100%;">
   </a>
 </p>
-
-<h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 ### :hammer_and_wrench: Languages and Tools :
 

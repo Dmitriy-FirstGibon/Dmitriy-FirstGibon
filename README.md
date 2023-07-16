@@ -47,7 +47,7 @@
 
 ### :fire: My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Permyakov-Dmitriy&theme=tokyonight&background=51%2C044873%2C49087&fire=9B5CEB)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Permyakov-Dmitriy&theme=tokyonight&background=51%2C031078%2C490871&fire=9B5CEB)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=compact&theme=tokyonight)](https://github.com/Permyakov-Dmitriy/github-readme-stats)
 

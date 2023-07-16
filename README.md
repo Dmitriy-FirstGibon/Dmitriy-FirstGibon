@@ -54,8 +54,6 @@
 <p align="center">
     <a href="https://github.com/Permyakov-Dmitriy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=compact&theme=tokyonight"/></a>
 </p>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=compact&theme=tokyonight)](https://github.com/Permyakov-Dmitriy/github-readme-stats)
-
 
 
 

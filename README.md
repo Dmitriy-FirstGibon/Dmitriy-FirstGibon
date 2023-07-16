@@ -14,7 +14,11 @@
   </a>
 </div>
 
-<img alt="Dark Badge (large)" class="hidden dark:block" src="/users/Gibbon_/badges/large">
+<p dir="auto">
+  <a href="https://www.codewars.com/users/Gibbon_" rel="nofollow">
+  <img src="https://camo.githubusercontent.com/aee3242f504e9351eef6fceb4d8fcde426b39aa488acb9e8ffed4afe02bd0954/68747470733a2f2f7777772e636f6465776172732e636f6d2f75736572732f626567656e4679732f6261646765732f6c61726765"     alt="codewars" data-canonical-src="https://www.codewars.com/users/Gibbon_/badges/large" style="max-width: 100%;">
+  </a>
+</p>
 
 <h1 align="center">
   Hey there

@@ -48,7 +48,7 @@
 ### :fire: My Stats :
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Permyakov-Dmitriy&theme=tokyonight&background=tokyonight&fire=9B5CEB"/></a>
+    <a href="https://github.com/Permyakov-Dmitriy/profile"><img src="http://github-readme-streak-stats.herokuapp.com?user=Permyakov-Dmitriy&theme=tokyonight&background=tokyonight&fire=9B5CEB"/></a>
 </p>
 
 <p align="center">

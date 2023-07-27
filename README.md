@@ -52,7 +52,7 @@
 </p>
 
 <p align="center">
-    <a href="https://github.com/Permyakov-Dmitriy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=compact&theme=tokyonight"/></a>
+    <a href="https://github.com/Permyakov-Dmitriy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=donut-vertical&theme=tokyonight"/></a>
 </p>
 
 

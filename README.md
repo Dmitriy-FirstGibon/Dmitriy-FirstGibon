@@ -52,8 +52,7 @@
 </p>
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
-<!--     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=donut-vertical"/></a> -->
+    <a href="https://github.com/Permyakov-Dmitriy/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=donut-vertical"/></a>
 </p>
 
 

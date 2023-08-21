@@ -47,13 +47,15 @@
 
 ### :fire: My Stats :
 
-<p align="center">
+<div style='display:flex;'>
+  <p align="center">
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Permyakov-Dmitriy&theme=midnight-purple"/></a>
 </p>
 
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=donut-vertical&hide=html&theme=midnight-purple"/></a>
 </p>
+</div>
 
 
 

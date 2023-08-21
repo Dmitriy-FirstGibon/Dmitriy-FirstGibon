@@ -48,7 +48,7 @@
 ### :fire: My Stats :
 
 <p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Permyakov-Dmitriy&theme=buefy-dark"/></a>
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Permyakov-Dmitriy&theme=midnight-purple"/></a>
 </p>
 
 <p align="center">

@@ -48,9 +48,9 @@
 ### :fire: My Stats :
 
 
-<p dir='auto'>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Permyakov-Dmitriy&theme=nightowl"/></a> 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=donut&theme=nightowl"/></a>
+<p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Permyakov-Dmitriy&theme=nightowl"/></a> 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=donut&theme=nightowl"/></a>
 </p> 
 
 

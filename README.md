@@ -23,8 +23,8 @@
   <img src="https://www.codewars.com/users/Gibbon_/badges/large"     alt="codewars" data-canonical-src="https://www.codewars.com/users/Gibbon_/badges/large" style="max-width: 100%;">
   </a>
 </p>
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" />
-### :hammer_and_wrench: Languages and Tools :
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Languages and Tools :
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;

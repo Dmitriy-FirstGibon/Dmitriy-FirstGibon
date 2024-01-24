@@ -59,7 +59,7 @@
 
 <p>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Permyakov-Dmitriy&theme=nightowl"/></a> 
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=compact&theme=nightowl&langs_count=8"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Permyakov-Dmitriy&layout=compact&theme=nightowl&langs_count=9"/></a>
 </p>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>

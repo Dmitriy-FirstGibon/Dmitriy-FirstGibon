@@ -1,18 +1,20 @@
+<!--
 <div id="header" align="center">
   <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="220"/>
 </div>
+-->
 
 <div id="header" align="center">
   <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" width="100vw"/>
 </div>
 
-
+<!--
 <div id="badges" align="center">
   <a href="https://web.telegram.org/k/#@DmitriyGibon">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+-->
 ---
 
 <br>

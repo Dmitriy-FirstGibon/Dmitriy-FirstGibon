@@ -7,11 +7,21 @@
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
-
+<!--
 <h1 align="center" color="white">
   <img src="[https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)" width="30px"/>
   Hey there
 </h1>
+-->
+---
+
+<br>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dmitriy;Bot+Dev+and+Backend+Dev;Python+is+the+future&font=Fira+Code&center=true&width=440&height=45&color=57d168&vCenter=true&pause=1000&size=24" />
+</p>
+
+---
 
 ### :dart:: Codewars acсount :
 

@@ -33,10 +33,6 @@
   </a>
 </p>
 
-<p align="right">
-  <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="220"/>
-</p>
-
 ### :hammer_and_wrench:: Languages and Tools :
 
 <div>

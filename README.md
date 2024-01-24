@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F199988039693239353%2F&psig=AOvVaw3jjTMOzUxqgue5fknMQoEm&ust=1706187004652000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiYmfeDiPaDAxXoDBAIHecUAhQQjRx6BAgAEBY" width="220"/>
+  <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F64%2Fdb%2Ffb%2F64dbfb279110e5730b698a752532605b.gif&tbnid=YYBst7MOw-l80M&vet=12ahUKEwiA8pHbhfaDAxVKNhAIHUINAVIQMygSegUIARCMAQ..i&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F199988039693239353%2F&docid=QUxCiyPWICQBNM&w=999&h=427&q=header%20gif%20purple&hl=ru&ved=2ahUKEwiA8pHbhfaDAxVKNhAIHUINAVIQMygSegUIARCMAQ" width="220"/>
 </div>
 
 

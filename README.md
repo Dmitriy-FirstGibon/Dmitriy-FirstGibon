@@ -13,7 +13,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dmitriy;Bot+Dev+and+Backend+Dev;Python+is+the+future&font=Fira+Code&center=true&width=440&height=45&color=cf6bf4&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dmitriy;Bot+Dev+and+Backend+Dev;Python+is+the+future&font=Fira+Code&center=true&width=440&height=45&color=a447c7&vCenter=true&pause=1000&size=24" />
 </p>
 
 ---

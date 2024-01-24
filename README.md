@@ -27,6 +27,10 @@
 
 ### :dart:: Codewars acсount :
 
+<p align="right">
+  <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="220"/>
+</p>
+
 <p dir="auto">
   <a href="https://www.codewars.com/users/Gibbon_" rel="nofollow">
   <img src="https://www.codewars.com/users/Gibbon_/badges/large"     alt="codewars" data-canonical-src="https://www.codewars.com/users/Gibbon_/badges/large" style="max-width: 100%;">

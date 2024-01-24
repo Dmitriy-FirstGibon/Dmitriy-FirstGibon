@@ -20,7 +20,7 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dmitriy;Bot+Dev+and+Backend+Dev;Python+is+the+future&font=Fira+Code&center=true&width=440&height=45&color=fb00ff&vCenter=true&pause=1000&size=24" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Dmitriy;Bot+Dev+and+Backend+Dev;Python+is+the+future&font=Fira+Code&center=true&width=440&height=45&color=fb00ff&vCenter=true&pause=700&size=24" />
 </p>
 
 ---

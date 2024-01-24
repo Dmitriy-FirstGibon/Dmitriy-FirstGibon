@@ -2,6 +2,11 @@
   <img src="https://media.tenor.com/KI2KjhUH6r8AAAAd/hacker-hack.gif" width="220"/>
 </div>
 
+<div id="header" align="center">
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F199988039693239353%2F&psig=AOvVaw3jjTMOzUxqgue5fknMQoEm&ust=1706187004652000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiYmfeDiPaDAxXoDBAIHecUAhQQjRx6BAgAEBY" width="220"/>
+</div>
+
+
 <div id="badges" align="center">
   <a href="https://web.telegram.org/k/#@DmitriyGibon">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Twitter Badge"/>

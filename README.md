@@ -3,7 +3,7 @@
 </div>
 
 <div id="header" align="center">
-  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif" width="220"/>
+  <img src="https://www.gifcen.com/wp-content/uploads/2022/07/discord-banner-gif-5.gif"/>
 </div>
 
 

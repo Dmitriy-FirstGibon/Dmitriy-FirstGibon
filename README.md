@@ -25,7 +25,7 @@
 
 ---
 
-### Personal info
+### :mag_right: Personal info
 
 - 🐍 I have been programming in Python 2+ years
 - 😽 Django and FastAPI is my favorite frameworks

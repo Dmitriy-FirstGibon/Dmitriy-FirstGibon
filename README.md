@@ -32,6 +32,8 @@
 - 🐳 I love deploying my apps to docker
 - 👨‍🚀 I'm testing it thanks to Postman
 
+---
+
 ### :dart: Codewars acсount
 
 <p dir="auto">

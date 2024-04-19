@@ -25,6 +25,13 @@
 
 ---
 
+### Personal info
+
+- 🐍 I have been programming in Python 2+ years
+- 😽 Django and FastAPI is my favorite frameworks
+- 🐳 I love deploying my apps to docker
+- 👨‍🚀 I'm testing it thanks to Postman
+
 ### :dart: Codewars acсount
 
 <p dir="auto">
